@@ -6,7 +6,7 @@
 - [Controls](#controls)
 
 ## Introduction
-This is a simple java snake game except everytime the snake eats the apple, its head and tail will swap.
+Class work project.
 
 ## Features
 - Move the snake in four directions using arrow keys (up, down, left, right).
